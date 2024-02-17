@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+git clone https://github.com/Samiraesmailpur/hotel-calendar.git
+cd hotel-calendar
 npm install
 ```
 
@@ -20,5 +22,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
