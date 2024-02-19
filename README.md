@@ -1,4 +1,5 @@
-# hotel-calendar
+# hotel-calendar 
+https://hotel-calendar.netlify.app/calendar
 
 ## Project setup
 ```

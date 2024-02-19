@@ -1554,27 +1554,6 @@
         "end": "2024-02-20"
     },
     {
-        "id": 507271322130,
-        "name": "Oleg Oleg",
-        "phone": "4392-212-1824",
-        "email": "cdedasan21@hexun.com",
-        "typeOfApartments": "חדר יחיד",
-        "guestInfo": {
-            "adults": 7,
-            "children": 3
-        },
-        "start": "2024-02-15",
-        "duration": 10,
-        "timed": false,
-        "height": 64,
-        "type": "unavailable",
-        "roomDetails": {
-            "id": 5,
-            "name": "Panoramic Suite"
-        },
-        "end": "2024-02-18"
-    },
-    {
         "id": 134795,
         "name": "Dolorita Melhuish",
         "phone": "501-435-3659",
