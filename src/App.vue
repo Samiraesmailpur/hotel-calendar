@@ -2,10 +2,18 @@
   <div class="container">
     <ul class="list">
       <li>
-        <router-link class="list-link" to="/"> Home </router-link>
+        <router-link
+          class="list__link"
+          to="/"
+        >
+          Home
+        </router-link>
       </li>
       <li>
-        <router-link class="list-link" to="/calendar">
+        <router-link
+          class="list__link"
+          to="/calendar"
+        >
           Booking calendar
         </router-link>
       </li>
@@ -20,7 +28,8 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
+
 .container {
   max-width: 1200px;
   margin: 0 auto;
@@ -34,10 +43,12 @@ export default {
   align-items: center;
   justify-content: flex-end;
   gap: 20px;
+
+  &__link {
+    font-size: 22px;
+    color: #000;
+  }
 }
 
-.list-link {
-  font-size: 22px;
-  color: #000;
-}
+
 </style>
